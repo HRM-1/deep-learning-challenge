@@ -27,4 +27,5 @@ Accuracy: 0.7264
 
 Among the attempts, Attempt 2 with 300 epochs and a batch size of 50 achieved the highest accuracy of 72.84%. This indicates a slight improvement over Attempt 1 (72.41%), which used fewer epochs. However, Attempt 3 with the same number of epochs as Attempt 2 but a larger batch size yielded slightly lower accuracy (72.64%).
 
-While Attempt 2 showed the best performance in terms of accuracy, the differences between the attempts are relatively small.
+While Attempt 2 showed the best performance in terms of accuracy, the differences between the attempts are relatively small.  
+In summary, although the deep learning model has potential for predicting the success of applicants, it needs more adjustments and testing to make it more accurate . Also, we can try using decision trees to help with this classification problem.
